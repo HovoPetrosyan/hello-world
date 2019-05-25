@@ -1,2 +1,5 @@
 # hello-world
-Another repository
+
+Hello everyone!
+
+I`m a starter Python developer. New in Github! 
